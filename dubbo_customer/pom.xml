@@ -104,6 +104,5 @@
 			<artifactId>zkclient</artifactId>
 			<version>0.1</version>
 		</dependency>
-
 	</dependencies>
 </project>
